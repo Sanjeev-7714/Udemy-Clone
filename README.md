@@ -17,6 +17,9 @@ You can access my Udemy-Clone website by visiting ( https://sanjeev-7714.github.
 
 ## 📌 Future Improvements  
 - Add JavaScript for interactive features (like search filters, carousels)  
-- Add more pages (course details, login/signup)  
+- Add more pages (course details, login/signup)
+
+## 📩 Contact  
+Feel free to reach out via [ LinkedIn: https://www.linkedin.com/in/sanjeev-dev7714/ ].  
 
 ---
